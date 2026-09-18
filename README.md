@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Sanjay9393/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Sanjay9393/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Sanjay9393/leetcode-problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Greedy
@@ -21,5 +22,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Sanjay9393/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Sanjay9393/leetcode-problems/tree/master/0735-asteroid-collision) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/Sanjay9393/leetcode-problems/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
