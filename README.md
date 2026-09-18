@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Sanjay9393/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Sanjay9393/leetcode-problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Greedy
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Sanjay9393/leetcode-problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Sanjay9393/leetcode-problems/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Sanjay9393/leetcode-problems/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
