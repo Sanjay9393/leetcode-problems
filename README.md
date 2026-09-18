@@ -28,4 +28,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Sanjay9393/leetcode-problems/tree/master/0498-diagonal-traverse) |
+## Math
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/Sanjay9393/leetcode-problems/tree/master/2523-closest-prime-numbers-in-range) |
+## Number Theory
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/Sanjay9393/leetcode-problems/tree/master/2523-closest-prime-numbers-in-range) |
+## Primality Test
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/Sanjay9393/leetcode-problems/tree/master/2523-closest-prime-numbers-in-range) |
+## Sieve Theory
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/Sanjay9393/leetcode-problems/tree/master/2523-closest-prime-numbers-in-range) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/Sanjay9393/leetcode-problems/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
