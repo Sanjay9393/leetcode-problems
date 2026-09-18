@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Sanjay9393/leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
+| [1922-count-good-numbers](https://github.com/Sanjay9393/leetcode-problems/tree/master/1922-count-good-numbers) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Sanjay9393/leetcode-problems/tree/master/2523-closest-prime-numbers-in-range) |
 ## Number Theory
 |  |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/Sanjay9393/leetcode-problems/tree/master/2523-closest-prime-numbers-in-range) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/Sanjay9393/leetcode-problems/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
