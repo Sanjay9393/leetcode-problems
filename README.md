@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Sanjay9393/leetcode-problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Sanjay9393/leetcode-problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3115-maximum-prime-difference](https://github.com/Sanjay9393/leetcode-problems/tree/master/3115-maximum-prime-difference) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sanjay9393/leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Greedy
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Sanjay9393/leetcode-problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Sanjay9393/leetcode-problems/tree/master/2523-closest-prime-numbers-in-range) |
 | [3115-maximum-prime-difference](https://github.com/Sanjay9393/leetcode-problems/tree/master/3115-maximum-prime-difference) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sanjay9393/leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Number Theory
 |  |
 | ------- |
