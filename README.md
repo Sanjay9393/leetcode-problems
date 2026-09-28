@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Sanjay9393/leetcode-problems/tree/master/0735-asteroid-collision) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanjay9393/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Sanjay9393/leetcode-problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## String
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanjay9393/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanjay9393/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
