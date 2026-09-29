@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sanjay9393/leetcode-problems/tree/master/0204-count-primes) |
+| [0239-sliding-window-maximum](https://github.com/Sanjay9393/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0498-diagonal-traverse](https://github.com/Sanjay9393/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Sanjay9393/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Sanjay9393/leetcode-problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -104,4 +105,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanjay9393/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sanjay9393/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sanjay9393/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sanjay9393/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sanjay9393/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sanjay9393/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
