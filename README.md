@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sanjay9393/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Sanjay9393/leetcode-problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Sorting
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sanjay9393/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/Sanjay9393/leetcode-problems/tree/master/0735-asteroid-collision) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sanjay9393/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanjay9393/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
@@ -102,11 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sanjay9393/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sanjay9393/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanjay9393/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sanjay9393/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sanjay9393/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanjay9393/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
